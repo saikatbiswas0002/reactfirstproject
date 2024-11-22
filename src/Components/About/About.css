@@ -1,0 +1,15 @@
+.card{
+    width: 200px;
+}
+
+.main-div{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 20px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}

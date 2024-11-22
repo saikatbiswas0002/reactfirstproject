@@ -1,0 +1,72 @@
+.bg{
+    background-image: url(./bg.img.jpg.avif);
+    height: 600px;
+    width:auto;
+    background-size: cover;
+}
+
+.bg p{
+    color: rgba(255, 255, 255, 0.838);
+    font-size: 60px;
+    font-family:  sans-serif;
+    font-weight: 800;
+    margin-left: 20px;
+    text-shadow: 5px 5px 5px black;
+}
+
+
+.bg p span{
+    color: aquamarine;
+}
+
+.hm-btn{
+    border: 2px solid black;
+    background-color:aquamarine;
+    width: 140px;
+    margin-left: 20px;
+    border-style: none;
+    height: 40px;
+    padding-top: 8px;
+    border-radius: 5px
+    
+}
+
+.hover :hover{
+    border: 2px solid white;
+}
+
+
+.hm-btn button{
+    border-style: none;
+    font-weight:700;
+    background-color: aquamarine;
+    
+}
+
+
+.hm-p p{
+    font-size: 30px;
+    text-shadow: 2px 2px 2px aquamarine;
+}
+
+
+.hm-pp{
+    margin-top: 170px;
+    margin-left: 330px;
+    
+}
+
+.hm-pp p{
+    color: aquamarine;
+}
+
+.card-div{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 30px;
+}
+
+.card{
+    height: 60px;
+    width: 200px;
+}

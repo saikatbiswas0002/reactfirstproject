@@ -1,0 +1,54 @@
+.nav{
+    background-color: rgb(224, 238, 236);
+}
+
+.nav-ele{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-ul{
+    margin-left: 100px;
+}
+
+.logo img{
+    height: 40px;
+    width: 45px;
+    
+}
+
+.navbar-ul li{
+    
+    margin-left: 50px;
+    font-weight: 600;
+
+}
+
+.nav-inp{
+    width: 300px;
+    border-radius: 5px 0px 0px 5px;
+    border-style: none;
+    outline: none;
+}
+
+
+.inp-btn{
+    height: 26px;
+    width: 65px;
+    border-radius: 0px 5px 5px 0px;
+    padding-top: 0px;
+    border-style: none;
+
+}
+
+
+form{
+    border: 1px solid green;
+    border-radius: 5px;
+}
+
+.item-nav a:hover{
+    color:black;
+    background-color: aquamarine;
+    border-radius: 20px 0px 20px 0px;
+}
